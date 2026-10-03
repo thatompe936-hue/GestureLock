@@ -1,0 +1,13 @@
+{
+    "unlock_sequence": [
+        "PEACE",
+        "BRO",
+        "FUCK_YOU",
+        "HELLO"
+    ],
+    "camera_width": 1280,
+    "camera_height": 720,
+    "gesture_stable_time": 0.5,
+    "auto_lock_enabled": true,
+    "auto_lock_seconds": 30
+}
